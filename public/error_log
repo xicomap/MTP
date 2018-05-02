@@ -1,0 +1,187 @@
+[16-Feb-2018 05:01:42 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[16-Feb-2018 05:01:48 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[16-Feb-2018 05:01:54 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[16-Feb-2018 05:02:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:490
+Stack trace:
+#0 /home/mtp/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(34): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(103): mb_strpos(NULL, '/json')
+#2 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(339): Illuminate\Http\Request->isJson()
+#4 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(367): Illuminate\Http\Request->getInputSource()
+#5 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illuminate\Http\Request::createFromBase(Object(Illuminate\Http\Request))
+#6 /home/mtp/publi in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 490
+[16-Feb-2018 05:02:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:490
+Stack trace:
+#0 /home/mtp/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(34): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(103): mb_strpos(NULL, '/json')
+#2 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(339): Illuminate\Http\Request->isJson()
+#4 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(367): Illuminate\Http\Request->getInputSource()
+#5 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illuminate\Http\Request::createFromBase(Object(Illuminate\Http\Request))
+#6 /home/mtp/publi in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 490
+[16-Feb-2018 05:02:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:490
+Stack trace:
+#0 /home/mtp/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(34): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(103): mb_strpos(NULL, '/json')
+#2 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(339): Illuminate\Http\Request->isJson()
+#4 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(367): Illuminate\Http\Request->getInputSource()
+#5 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illuminate\Http\Request::createFromBase(Object(Illuminate\Http\Request))
+#6 /home/mtp/publi in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 490
+[16-Feb-2018 05:02:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:490
+Stack trace:
+#0 /home/mtp/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(34): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(103): mb_strpos(NULL, '/json')
+#2 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(339): Illuminate\Http\Request->isJson()
+#4 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(367): Illuminate\Http\Request->getInputSource()
+#5 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illuminate\Http\Request::createFromBase(Object(Illuminate\Http\Request))
+#6 /home/mtp/publi in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 490
+[16-Feb-2018 05:02:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:490
+Stack trace:
+#0 /home/mtp/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(34): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(103): mb_strpos(NULL, '/json')
+#2 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(339): Illuminate\Http\Request->isJson()
+#4 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(367): Illuminate\Http\Request->getInputSource()
+#5 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illuminate\Http\Request::createFromBase(Object(Illuminate\Http\Request))
+#6 /home/mtp/publi in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 490
+[16-Feb-2018 05:02:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:490
+Stack trace:
+#0 /home/mtp/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(34): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(103): mb_strpos(NULL, '/json')
+#2 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(339): Illuminate\Http\Request->isJson()
+#4 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(367): Illuminate\Http\Request->getInputSource()
+#5 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illuminate\Http\Request::createFromBase(Object(Illuminate\Http\Request))
+#6 /home/mtp/publi in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 490
+[16-Feb-2018 05:02:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:490
+Stack trace:
+#0 /home/mtp/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(34): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(103): mb_strpos(NULL, '/json')
+#2 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(339): Illuminate\Http\Request->isJson()
+#4 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(367): Illuminate\Http\Request->getInputSource()
+#5 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illuminate\Http\Request::createFromBase(Object(Illuminate\Http\Request))
+#6 /home/mtp/publi in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 490
+[16-Feb-2018 05:04:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:490
+Stack trace:
+#0 /home/mtp/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(34): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(103): mb_strpos(NULL, '/json')
+#2 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(339): Illuminate\Http\Request->isJson()
+#4 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(367): Illuminate\Http\Request->getInputSource()
+#5 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illuminate\Http\Request::createFromBase(Object(Illuminate\Http\Request))
+#6 /home/mtp/publi in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 490
+[16-Feb-2018 05:04:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:490
+Stack trace:
+#0 /home/mtp/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(34): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(103): mb_strpos(NULL, '/json')
+#2 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(339): Illuminate\Http\Request->isJson()
+#4 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(367): Illuminate\Http\Request->getInputSource()
+#5 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illuminate\Http\Request::createFromBase(Object(Illuminate\Http\Request))
+#6 /home/mtp/publi in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 490
+[16-Feb-2018 05:05:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:490
+Stack trace:
+#0 /home/mtp/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(34): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(103): mb_strpos(NULL, '/json')
+#2 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(339): Illuminate\Http\Request->isJson()
+#4 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(367): Illuminate\Http\Request->getInputSource()
+#5 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illuminate\Http\Request::createFromBase(Object(Illuminate\Http\Request))
+#6 /home/mtp/publi in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 490
+[16-Feb-2018 05:08:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:490
+Stack trace:
+#0 /home/mtp/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(34): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(103): mb_strpos(NULL, '/json')
+#2 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(339): Illuminate\Http\Request->isJson()
+#4 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(367): Illuminate\Http\Request->getInputSource()
+#5 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illuminate\Http\Request::createFromBase(Object(Illuminate\Http\Request))
+#6 /home/mtp/publi in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 490
+[16-Feb-2018 05:08:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:490
+Stack trace:
+#0 /home/mtp/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(34): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(103): mb_strpos(NULL, '/json')
+#2 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(339): Illuminate\Http\Request->isJson()
+#4 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(367): Illuminate\Http\Request->getInputSource()
+#5 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illuminate\Http\Request::createFromBase(Object(Illuminate\Http\Request))
+#6 /home/mtp/publi in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 490
+[16-Feb-2018 05:10:38 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[16-Feb-2018 05:14:34 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[16-Feb-2018 05:14:49 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[16-Feb-2018 05:14:51 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[16-Feb-2018 05:14:51 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[16-Feb-2018 05:14:52 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[16-Feb-2018 05:37:33 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[16-Feb-2018 05:37:35 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[16-Feb-2018 05:38:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:490
+Stack trace:
+#0 /home/mtp/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(34): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(103): mb_strpos(NULL, '/json')
+#2 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(339): Illuminate\Http\Request->isJson()
+#4 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(367): Illuminate\Http\Request->getInputSource()
+#5 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illuminate\Http\Request::createFromBase(Object(Illuminate\Http\Request))
+#6 /home/mtp/publi in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 490
+[16-Feb-2018 05:38:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:490
+Stack trace:
+#0 /home/mtp/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(34): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(103): mb_strpos(NULL, '/json')
+#2 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(339): Illuminate\Http\Request->isJson()
+#4 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(367): Illuminate\Http\Request->getInputSource()
+#5 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illuminate\Http\Request::createFromBase(Object(Illuminate\Http\Request))
+#6 /home/mtp/publi in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 490
+[16-Feb-2018 05:38:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:490
+Stack trace:
+#0 /home/mtp/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(34): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(103): mb_strpos(NULL, '/json')
+#2 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(339): Illuminate\Http\Request->isJson()
+#4 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(367): Illuminate\Http\Request->getInputSource()
+#5 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illuminate\Http\Request::createFromBase(Object(Illuminate\Http\Request))
+#6 /home/mtp/publi in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 490
+[16-Feb-2018 05:38:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:490
+Stack trace:
+#0 /home/mtp/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(34): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(103): mb_strpos(NULL, '/json')
+#2 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(339): Illuminate\Http\Request->isJson()
+#4 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(367): Illuminate\Http\Request->getInputSource()
+#5 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illuminate\Http\Request::createFromBase(Object(Illuminate\Http\Request))
+#6 /home/mtp/publi in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 490
+[16-Feb-2018 05:38:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:490
+Stack trace:
+#0 /home/mtp/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(34): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(103): mb_strpos(NULL, '/json')
+#2 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(339): Illuminate\Http\Request->isJson()
+#4 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(367): Illuminate\Http\Request->getInputSource()
+#5 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illuminate\Http\Request::createFromBase(Object(Illuminate\Http\Request))
+#6 /home/mtp/publi in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 490
+[16-Feb-2018 05:39:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php:490
+Stack trace:
+#0 /home/mtp/public_html/vendor/symfony/polyfill-mbstring/bootstrap.php(34): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Support/Str.php(103): mb_strpos(NULL, '/json')
+#2 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(339): Illuminate\Http\Request->isJson()
+#4 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(367): Illuminate\Http\Request->getInputSource()
+#5 /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illuminate\Http\Request::createFromBase(Object(Illuminate\Http\Request))
+#6 /home/mtp/publi in /home/mtp/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 490
+[16-Feb-2018 05:52:03 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[16-Feb-2018 05:52:41 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[16-Feb-2018 05:53:15 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[16-Feb-2018 05:53:55 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[16-Feb-2018 05:54:25 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[16-Feb-2018 05:55:32 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[16-Feb-2018 05:56:10 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[16-Feb-2018 05:56:26 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[16-Feb-2018 06:07:32 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[16-Feb-2018 06:07:36 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[27-Feb-2018 11:54:28 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[27-Feb-2018 11:54:31 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/mtp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[09-Apr-2018 07:07:31 UTC] PHP Fatal error:  Cannot use App\CategoryVideo as CategoryVideo because the name is already in use in /home/mtp/public_html/app/Http/Controllers/HomeController.php on line 12
+[09-Apr-2018 07:07:31 UTC] PHP Fatal error:  Cannot use App\CategoryVideo as CategoryVideo because the name is already in use in /home/mtp/public_html/app/Http/Controllers/HomeController.php on line 12
